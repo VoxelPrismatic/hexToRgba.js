@@ -1,0 +1,27 @@
+{
+  "name": "@voxelprismatic/hextorgba",
+  "version": "1.0.0",
+  "description": "Hex to RGBA, using too many bitwise operations",
+  "main": "hexToRgba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoxelPrismatic/hexToRgba.js.git"
+  },
+  "keywords": [
+    "rgb",
+    "hex",
+    "bitwise",
+    "rgb",
+    "to",
+    "hex"
+  ],
+  "author": "VoxelPrismatic",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/VoxelPrismatic/hexToRgba.js/issues"
+  },
+  "homepage": "https://github.com/VoxelPrismatic/hexToRgba.js#readme"
+}
